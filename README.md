@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=TongueEye%20&fontSize=60" />
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ABDCFF,100:0396FF&height=300&section=header&text=TongueEye%20&fontSize=60&fontColor=363636&animation=fadeIn" />
 
 <!--
 **tongueEye/tongueEye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
