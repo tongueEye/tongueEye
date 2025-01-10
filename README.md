@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ABDCFF,100:0396FF&height=300&section=header&text=TongueEye%20&fontSize=60&fontColor=363636&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0396FF,100:ABDCFF&height=300&section=header&text=TongueEye%20&fontSize=60&fontColor=FFFFFF&animation=fadeIn" />
 
 <!--
 **tongueEye/tongueEye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tongueEye)](https://github.com/tongueEye/github-readme-stats)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=hyunda24)](https://solved.ac/hyunda24) 
 
